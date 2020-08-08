@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![About-me Badge](https://img.shields.io/badge/About%20Me-Jorge%20Nery-blue?style=for-the-badge&logo=me&logoColor=white&link=https://about.me/jorgenery/)](https://about.me/jorgenery/)
+[![About-me Badge](https://img.shields.io/badge/-Jorge%20Nery-blue?style=for-the-badge&logo=about.me&logoColor=white)](https://about.me/jorgenery/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/jorgenery/)](https://www.linkedin.com/in/jorgenery/)
 
 ### - 🌱,🔭 I’m currently learning and working ...
