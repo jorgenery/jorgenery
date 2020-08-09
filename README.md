@@ -50,6 +50,7 @@ I work in IT Management (Planning, Development, Maintenance, Administration, Imp
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-Junior-green?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Spring Badge](https://img.shields.io/badge/Spring-Junior-green?logo=spring&logoColor=white)](https://docs.spring.io/spring-boot/docs/current/reference/html/index.html)
 [![Machine-Learning Badge](https://img.shields.io/badge/Machine&nbsp;Learning-Junior-green?logoColor=white)](https://www.coursera.org/learn/machine-learning)
+[![Ciencia-de-Dados Badge](https://img.shields.io/badge/Data&nbsp;Science-Junior-green)](https://www.datasciencecentral.com/)
 [![Android-Developer Badge](https://img.shields.io/badge/Android&nbsp;Developer-Junior-green?logo=android&logoColor=white)](https://developer.android.com/docs?hl=pt-br)
 [![dotNet Badge](https://img.shields.io/badge/.NET-Junior-green?logo=.net&logoColor=white)](https://dotnet.microsoft.com/learn)
 [![CSharp Badge](https://img.shields.io/badge/C&nbsp;Sharp-Junior-green?logo=c-sharp&logoColor=white)](https://docs.microsoft.com/pt-br/dotnet/)
@@ -80,6 +81,7 @@ I work in IT Management (Planning, Development, Maintenance, Administration, Imp
 [![Alexa Badge](https://img.shields.io/badge/Alexa-Learning-white?logo=amazon-alexa&logoColor=white&color=black)](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/start)
 [![Elixir Badge](https://img.shields.io/badge/Elixir-Learning-white?logo=elixir&logoColor=white&color=black)](https://elixirschool.com/pt/lessons/basics/documentation/)
 [![IBM Badge](https://img.shields.io/badge/IBM&nbsp;Whatson-Learning-white?logo=ibm&logoColor=white&color=black)](https://maratona.dev/pt)
+
 
 
 <!--
