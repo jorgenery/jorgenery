@@ -97,9 +97,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-[![Twitter Badge](https://img.shields.io/badge/--1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jorgenery)](https://twitter.com/jorgenery)
-
-[![Gmail Badge](https://img.shields.io/badge/--c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nery.informatica@gmail.com)](mailto:nery.informatica@gmail.com)
-
 -->
+
+[![icon_twitter]][twitter]
+
+[![icon_gmail]][gmail]
+
+
+[//]:
+[AboutMe]:<https://about.me/jorgenery/>
+[linkedin]:<https://www.linkedin.com/in/jorgenery/>
+[twitter]:<https://twitter.com/jorgenery>
+[gmail]:<mailto:nery.informatica@gmail.com>
+
+[icon_gmail]:<https://img.shields.io/badge/--c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nery.informatica@gmail.com>
+[icon_twitter]:<https://img.shields.io/badge/--1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jorgenery>
+
