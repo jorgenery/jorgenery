@@ -14,7 +14,7 @@ I work in IT Management (Planning, Development, Maintenance, Administration, Imp
 [![one 850D0B8D](https://img.shields.io/badge/Certificado-FULLstack&nbsp;Python-blueviolet?style=flat-square&logo=python)](https://certificates.digitalinnovation.one/53E3C5AA)
 [![one 8ADEABF0](https://img.shields.io/badge/Certificado-BackEnd&nbsp;Developer-blueviolet?style=flat-square&logo=java)](https://certificates.digitalinnovation.one/8ADEABF0)
 
-[![one 89F7C895](https://img.shields.io/badge/Certificado&nbsp;Data-Engineer-blueviolet?logo=google-cloud&logoColor=white)](https://certificates.digitalinnovation.one/89F7C895)
+[![one 89F7C895](https://img.shields.io/badge/Certificado-Data&nbsp;Engineer-blueviolet?logo=google-cloud&logoColor=white)](https://certificates.digitalinnovation.one/89F7C895)
 
 
 ### Skills
